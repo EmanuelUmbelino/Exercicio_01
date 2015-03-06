@@ -1,0 +1,9 @@
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\bin\Debug\Exercício - 01.exe.config
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\bin\Debug\Exercício - 01.exe
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\bin\Debug\Exercício - 01.pdb
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\obj\Debug\Exercício - 01.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\obj\Debug\Exercício___01.Form1.resources
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\obj\Debug\Exercício___01.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\obj\Debug\Exercício - 01.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\obj\Debug\Exercício - 01.exe
+C:\Users\seeduc\Desktop\Exercício - 01\Exercício - 01\obj\Debug\Exercício - 01.pdb
